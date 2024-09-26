@@ -1,0 +1,16 @@
+{
+  "name": "devTinder",
+  "version": "1.0.0",
+  "description": "Namaster Nodejs Practical:devTinder",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test:vi",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Wahid Shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
