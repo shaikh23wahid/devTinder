@@ -2,10 +2,10 @@
   "name": "apiproject",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "mongoDBAtlas.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "node mongoDBAtlas.js",
+    "dev": "nodemon mongoDBAtlas.js"
   },
   "keywords": [],
   "author": "",
